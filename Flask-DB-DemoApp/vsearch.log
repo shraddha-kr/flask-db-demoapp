@@ -1,0 +1,4 @@
+ImmutableMultiDict([('phrase', 'When will my luck change'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0|{'u', 'e', 'a', 'i'}
+ImmutableMultiDict([('phrase', 'Want my own earned money'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0|{'e', 'a', 'o'}
+ImmutableMultiDict([('phrase', 'Want the tables to turn'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0|{'u', 'e', 'a', 'o'}
+ImmutableMultiDict([('phrase', 'help me god plz'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0|{'e', 'o'}
